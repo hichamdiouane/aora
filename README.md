@@ -1,5 +1,3 @@
-Sure, here's a more polished version of the README file to enhance its presentation:
-
 ---
 
 # 🤖 Introduction
